@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BetBot  Assistant</string>
+    <string name="title_control_panel">Бот-центр</string>
+    <string name="title_home">Матчи</string>
+    <string name="title_dashboard">Профиль</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
