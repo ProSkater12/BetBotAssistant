@@ -5,4 +5,9 @@
     <string name="title_home">Домой</string>
     <string name="title_dashboard">Личный кабинет</string>
     <string name="title_notifications">Уведомления</string>
+    <string name="btn_choose_matches">Выбрать матчи</string>
+    <string name="btn_choose_tournaments">Выбрать турниры</string>
+    <string name="question_icon">"?"</string>
+    <string name="exclude_tear">Исключить матчи по рейтингу команд</string>
+    <string name="dont_bet_noname">Не ставить на неизвестные команды</string>
 </resources>

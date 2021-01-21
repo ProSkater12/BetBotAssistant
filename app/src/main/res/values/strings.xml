@@ -4,4 +4,9 @@
     <string name="title_home">Матчи</string>
     <string name="title_dashboard">Профиль</string>
     <string name="title_notifications">Notifications</string>
+    <string name="btn_choose_matches">Choose matches</string>
+    <string name="btn_choose_tournaments">Choose tournaments</string>
+    <string name="question_icon">"?"</string>
+    <string name="exclude_tear">Exclude matches by team rating</string>
+    <string name="dont_bet_noname">Don\'t bet on noname teams</string>
 </resources>
